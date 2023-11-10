@@ -1,0 +1,13 @@
+[SMTP_Config]
+Subject = Aviso de certificados vencidos - VPN
+From = email.destino@exemplo.com.br
+password = senha+email:envio
+SMTP_server = smtp.exemplo.net
+Port = 587
+protocol = SSL / TLS
+
+[Destinatario]
+to = seu.email@exemplo.com.br
+
+[Excel_local]
+local = D:/Planilha Datas VPN.xlsx
