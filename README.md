@@ -5,6 +5,7 @@
 Este código faz parte de algumas ferramentas que estão sendo criadas, para automação de tarefas diárias do setor
 Atualmente, apenas abre a planilha indicada no template **Planilha_template**, verifica se há datas menores ou iguais ao dia (se há datas vencidas), e caso houver, envia um email com a lista do nome e data vencido.
 Podendo ser um aviso ao colaborador responsável, ou para a abertura de chamados em plataformas que aceitem esse tipo de solicitação.
+Necessário a criação de uma tarefa automática no "Agendador de tarefas" de acordo com a frequência desejada.
 
 ### Arquivo conf.txt ###
 No arquivo conf, substitua o caminho de exemplo, para o caminho completo, com o nome e extensão do arquivo com as datas da vpn e salve o arquivo.
