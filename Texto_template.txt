@@ -1,0 +1,7 @@
+Bom dia!
+
+Aviso de certificados VPN Uppertools vencidos.
+
+Para mais informações, consulte o arquivo "Planilha Datas VPN.xlsx"
+
+Certificados vencidos:
