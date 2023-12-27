@@ -26,4 +26,8 @@ def excel_path():
     path = config['Excel_local']['local']
     return path
 
+def delta_dias():
+    delta = config['Dias_aviso']['dias']
+    return delta
+
 ##### Fim do Parser
